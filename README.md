@@ -15,6 +15,7 @@ docker run -d -p 6443:443 \
 ```
 
 Authenticate via phpLDAPadmin with the following information:
-URL: https://localhost:6443/
-User: `cn=admin,dc=acme,dc=org`
-Pass: `P@ssw0rd!`
+
+URL: https://localhost:6443/  
+User: `cn=admin,dc=acme,dc=org`  
+Pass: `P@ssw0rd!`  
